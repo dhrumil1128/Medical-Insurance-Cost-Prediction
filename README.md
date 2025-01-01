@@ -63,14 +63,6 @@ The notebook demonstrates:
 - Feature importance derived from the trained models.
 - Prediction accuracy and model comparison.
 
-## Repository Structure
-
-```
-.
-├── Medical+Insurance+Cost+Prediction.ipynb  # Main notebook file
-├── README.md                                # Project documentation
-└── requirements.txt                        # Python dependencies
-```
 
 ## Contributing
 
